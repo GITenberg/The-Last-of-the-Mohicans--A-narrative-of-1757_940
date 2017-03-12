@@ -1,5 +1,8 @@
 _repo: The-Last-of-the-Mohicans--A-narrative-of-1757_940
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cooper, James Fenimore
@@ -31,6 +34,8 @@ description: "The Last of the Mohicans: A Narrative of 1757 (1826) is a historic
   \ popular novels in English\" since its publication and it remains \"widely read\
   \ in American literature courses\". It has been adapted numerous times and in different\
   \ languages for films, TV movies and cartoons.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/940#The-Last-of-the-Mohicans--A-narrative-of-1757
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2006-02-05'
 gutenberg_type: Text
